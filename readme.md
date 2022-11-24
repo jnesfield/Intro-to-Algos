@@ -4,6 +4,8 @@ Working thru examples and algos from Introduction to Algorithms 3rd edition.
   - runs in o(n^2) in worst case
 - merge sort
   - runs in o(n log n) in worst case
+- quick sort
+  - runs in o(n log n) in worst case, but is still technically o(n^2)
 - maximum subarray
   - runs in o(n log n) in worst case
 - heap sort 
